@@ -8,7 +8,7 @@
   <a href="mailto:khairulizzat0412@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/khairulizzat](https://www.linkedin.com/in/muhammad-khairul-izzat-khalid-8086622a1/)">
+  <a href="(https://www.linkedin.com/in/muhammad-khairul-izzat-khalid-8086622a1/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
