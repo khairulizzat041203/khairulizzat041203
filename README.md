@@ -19,7 +19,7 @@
 
 - 🎓 Pursuing **Bachelor of Information Systems (Hons.) Intelligent Systems Engineering** at UiTM Shah Alam
 - 🏆 **Dean's Award** recipient for 3 consecutive semesters
-- 💡 Passionate about **Data Science**, **Machine Learning**, and **Intelligent Systems**
+- 💡 Passionate about **Data Analyst**, **Data Science**, **Machine Learning**, and **Intelligent Systems**
 - 🔍 Seeking industrial training from **September – December 2026**
 - 📫 Reach me at **khairulizzat0412@gmail.com**
 
@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in Data Science, Machine Learning & Intelligent Systems</i>
+  <i>Open to internship opportunities in Data Analyst, Data Science, Machine Learning & Intelligent Systems</i>
 </p>
